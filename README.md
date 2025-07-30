@@ -94,7 +94,7 @@ The Power BI dashboard created in this project provides deep insights into finan
   * Monthly and yearly income and expense data
   * Categorized breakdowns for both expenses and savings
 
-* **Power BI File**: 
+* **Power BI File**: <a href= "https://app.powerbi.com/links/7dgurH084Z?ctid=edc5c3bf-4ab5-4697-84fa-41b44eb08b5e&pbi_source=linkShare">PowerBI_file</a>
 
   * Contains the complete interactive Finance Dashboard with all visuals, filters, and logic implemented
 
