@@ -86,13 +86,13 @@ The Power BI dashboard created in this project provides deep insights into finan
 
 #### **Files and Structure**
 
-* **Excel File: <a href="Finance Dataset.xlsx">Dateset</a>
+* **Excel File**: <a href="Finance Dataset.xlsx">Dateset</a>
   Contains:
 
   * Monthly and yearly income and expense data
   * Categorized breakdowns for both expenses and savings
 
-* **Power BI File:**
+* **Power BI File**: 
 
   * Contains the complete interactive Finance Dashboard with all visuals, filters, and logic implemented
 
