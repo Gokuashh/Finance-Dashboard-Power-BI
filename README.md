@@ -4,7 +4,8 @@
 
 The Finance Dashboard project was developed to provide a centralized and visual representation of an individual's or organization's financial performance over time. The key goal of this project was to enable better **financial planning, budgeting, and savings optimization** through the use of data analytics and visualization. The dashboard focuses on key financial indicators such as **Income %, Expenses %, Savings %, and Expense vs Savings %**, and breaks down the monthly performance using interactive charts and filters.
 
----
+### Dashboard
+
 
 #### **Key Features**
 
